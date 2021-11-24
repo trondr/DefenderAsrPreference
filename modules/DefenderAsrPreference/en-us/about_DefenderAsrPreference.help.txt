@@ -1,0 +1,12 @@
+﻿TOPIC
+	about_DefenderAsrPreference
+	
+SHORT DESCRIPTION
+	A short synopsis of DefenderAsrPreference
+
+LONG DESCRIPTION
+	A more detailed description of DefenderAsrPreference,
+	Should tell the user how to get started with this module.
+	
+KEYWORDS
+	module development debugging
